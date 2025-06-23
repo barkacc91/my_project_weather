@@ -25,7 +25,7 @@ docker-compose up -d
 Пользователь: airflow
 Пароль: airflow
 
-4.Создайте таблицу:
+4. Создайте таблицу:
 CREATE TABLE public.weather(
     dag_id varchar,
     sys_time timestamp, 
